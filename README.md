@@ -11,6 +11,5 @@ To add a screenshot, please replace `screenshot.png` with
 your own screenshot.
 -->
 
-## Primitive GameBoy
-
-This is an exact replica of ancient games our predecessors played before we had PlayStations and Xboxes. Make your way as a blinking sprite through the maze.
+## Jurassic Jump
+This is an exact replica of ancient games our predecessors played before we had PlayStations and Xboxes. Make your way as a blinking sprite through the maze to the other corner of the screen.
